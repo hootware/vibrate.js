@@ -11,6 +11,12 @@ https://market.android.com/details?id=org.mozilla.firefox_beta&hl=en
 
 https://raw.github.com/hootware/vibrate.js/master/vibrate.js
 
+
+##Contributors
+
+Ollie Parsley - http://twitter.com/motionjs
+
+
 ##Usage
 
 ### Start
