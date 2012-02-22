@@ -15,7 +15,7 @@ https://raw.github.com/hootware/vibrate.js/master/vibrate.js
 
 ##Contributors
 
-Ollie Parsley - http://twitter.com/motionjs
+Ollie Parsley - http://twitter.com/ollieparsley
 
 
 ##Future plans
