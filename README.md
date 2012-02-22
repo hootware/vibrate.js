@@ -5,6 +5,7 @@ A simple library that gives easy to use methods of using the W3C Vibration API.
 ##Compatible browsers
 
 At the moment it seems only Firefox beta for Android supports the Vibration API
+
 https://market.android.com/details?id=org.mozilla.firefox_beta&hl=en
 
 ##Download
@@ -16,6 +17,12 @@ https://raw.github.com/hootware/vibrate.js/master/vibrate.js
 
 Ollie Parsley - http://twitter.com/motionjs
 
+
+##Future plans
+
+* Haptic feedback (attach to the key press event)
+* Support the Gamepad API "rumble" feature when released
+* Any suggestions you have, place in the issues please :)
 
 ##Usage
 
