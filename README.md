@@ -39,7 +39,7 @@ Example
 ### Stop
 Stop any vibrations
 
-    window.vibrate.start(<milliseconds>);
+    window.vibrate.stop();
 
 ### Morse code
 Create morse code in vibrations from a string
