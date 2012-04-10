@@ -32,7 +32,7 @@
 		 * @return boolean
 		 */
 		isSupported: function(){
-			return navigator.vibrate !== undefined || navigator.mozVibrate !== undefined;
+			return navigator.vibrate !== undefined || navigator.mozVibrate !== undefined || navigator.webkitVibrate !== undefined;
 		},
 		
 		/** 
@@ -81,6 +81,8 @@
 			navigator.vibrate(data);
 		} else if (navigator.mozVibrate) {
 			navigator.mozVibrate(data);
+		} else if (navigator.webkitVibrate) {
+			navigator.webkitVibrate(data);
 		}
 	}
 	
